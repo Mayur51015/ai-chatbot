@@ -69,3 +69,7 @@ pnpm dev
 ```
 
 Your app template should now be running on [localhost:3000](http://localhost:3000).
+
+## Advanced features plan
+
+See the incremental roadmap for introducing advanced capabilities in [docs/advanced-features-plan.md](docs/advanced-features-plan.md).
